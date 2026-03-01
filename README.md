@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Sou Desenvolvedor Front-End em início de carreira, formado em Análise e Desenvolvimento de Sistemas, com formação complementar em HTML, CSS e JavaScript. Possuo conhecimento em estruturação de páginas web semânticas, estilização responsiva e manipulação básica do DOM. Busco minha primeira oportunidade como Desenvolvedor Front-End Júnior, com o objetivo de aplicar meus conhecimentos, evoluir tecnicamente e contribuir com soluções eficientes para a equipe.
 <!--
 **andreinacio10/andreinacio10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
